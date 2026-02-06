@@ -70,19 +70,19 @@ Información contenida
 2️⃣ Análisis Exploratorio (EDA)
 
 - Estadísticas descriptivas
-- 
+  
 - Análisis por:
--- País
--- Marca
--- Subclasificación
--- Proveedor
--- Modo de envío
+  -- País
+  -- Marca
+  -- Subclasificación
+  -- Proveedor
+  -- Modo de envío
 
 - Visualizaciones:
--- Barras
--- Boxplots
--- Pie charts
--- Matrices de correlación
+  -- Barras
+  -- Boxplots
+  -- Pie charts
+  -- Matrices de correlación
 
 3️⃣ Análisis de correlación
 
@@ -97,9 +97,9 @@ Información contenida
 - Linear Regression (OLS)
 
 - Evaluación:
--- R²
--- MAE
--- MSE
+  -- R²
+  -- MAE
+  -- MSE
 
 - Análisis de significancia estadística (p-values)
 
